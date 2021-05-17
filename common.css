@@ -1,0 +1,20 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Tahoma, Arial, 'PingFang SC', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
+    font-size: 100%;
+    color: #34352c;
+    background-color: #eff0dc;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    -webkit-tap-highlight-color: transparent;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+}
